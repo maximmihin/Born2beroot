@@ -12,9 +12,9 @@ For detailed information, refer to the **[subject of this project](https://githu
 2. [SSH](#ssh)
 3. [Apparmor](#apparmor)
 4. [Sudo](#sudo)
-5. [Passwords policy](#passwords policy)
-6. [Bash script-monitoring](#Bash script-monitoring)
-7. [WordPress website](#WordPress website)
+5. [Passwords policy](#passwords-policy)
+6. [Bash script-monitoring](#Bash-script-monitoring)
+7. [WordPress website](#WordPress-website)
 
 ## UFW
 
