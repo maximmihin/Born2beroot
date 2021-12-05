@@ -14,7 +14,7 @@ For detailed information, refer to the **[subject of this project](https://githu
 4. [Sudo](#sudo)
 5. [Passwords policy](#passwords-policy)
 6. [Bash script-monitoring](#Bash-script-monitoring)
-7. [WordPress website](#WordPress-website)
+7. [WordPress](#WordPress)
 
 ## UFW
 
